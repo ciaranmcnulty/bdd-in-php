@@ -3,7 +3,8 @@
     "description": "BDD in PHP workshop at PHPUK 2018",
     "type": "project",
     "require-dev": {
-        "phpspec/phpspec": "^4.3"
+        "phpspec/phpspec": "^3.0 || ^4.0",
+        "behat/behat": "^3.0"
     },
     "license": "MIT",
     "authors": [
@@ -12,7 +13,6 @@
             "email": "mail@ciaranmcnulty.com"
         }
     ],
-    "require": {},
     "autoload": {
         "psr-0" : {
             "" : "src"
