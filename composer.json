@@ -1,6 +1,6 @@
 {
-    "name": "ciaranmcnulty/phpuk18",
-    "description": "BDD in PHP workshop at PHPUK 2018",
+    "name": "ciaranmcnulty/phpuk19",
+    "description": "BDD in PHP workshop at PHPUK 2019",
     "type": "project",
     "require-dev": {
         "phpspec/phpspec": "^3.0 || ^4.0 || ^5.0",
